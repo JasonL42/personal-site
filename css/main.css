@@ -1,6 +1,11 @@
 main {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     margin-left: 30%;
     margin-right: 30%;
+}
+
+video{
+    width: 250px;
 }
