@@ -2,7 +2,7 @@
     color: blueviolet;
     text-decoration: underline;
     text-decoration-thickness: 2px;
-    text-underline-offset: 3px;
+    text-underline-offset: 4px;
 }
 
 header {
@@ -17,7 +17,7 @@ header {
 }
 
 .logo {
-    font-size: 40px;
+    font-size: 50px;
     font-weight: bold;
     margin-right: 10%;
 }
@@ -27,7 +27,7 @@ nav ul {
     display: flex;
     margin: 0;
     padding: 0;
-    font-size: 20px;
+    font-size: 25px;
 }
   
 nav ul li {
