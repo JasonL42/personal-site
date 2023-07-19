@@ -1,8 +1,23 @@
+@import 'icons.css';
+
 main {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     text-align: left;
-    margin-left: 200px;
-    margin-right: 200px;
-    font-size: 18px;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 24px;
+}
+
+.social-links {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.description {
+    text-align: center;
+    font-size: 14px;
 }

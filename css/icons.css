@@ -1,0 +1,29 @@
+.icons {
+    display: inline-flex;
+    border-radius: 50%;
+    outline:3px solid;
+    outline-offset: 5px;
+    transition-property: outline-offset, outline-color;
+    transition-duration: 0.5s;
+}
+
+.icons:hover {
+    outline-offset: 8px;
+    animation: shake 0.5s;
+    color:blueviolet;
+}
+
+@keyframes shake{
+    10% {
+        transform: rotate(10deg);
+    }
+    20% {
+        transform: rotate(-10deg);
+    }
+    30% {
+        transform: rotate(10deg);
+    }
+    40% {
+        transform: rotate(-10deg);
+    }
+}
