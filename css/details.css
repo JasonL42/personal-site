@@ -1,0 +1,20 @@
+details {
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+details summary{
+    color:blueviolet;
+    font-size: 20px;
+}
+
+details p{
+    line-height: 150%;
+    margin: 0;
+    cursor: default;
+}
+
+p a {
+    color:lightgreen
+}

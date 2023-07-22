@@ -2,10 +2,15 @@
 @import 'header.css';
 @import 'main.css';
 @import 'fonts.css';
+@import 'details.css';
 
 * {
-    color: lightgray;
+    color:thistle;
     font-family: 'Quicksand';
+}
+
+.Intro{
+    text-align: center;
 }
 
 @media screen and (max-width: 900px) {

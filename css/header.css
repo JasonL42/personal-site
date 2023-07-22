@@ -17,6 +17,7 @@ header {
 }
 
 .logo {
+    color:blueviolet;
     font-size: 50px;
     font-weight: bold;
     margin-right: 10%;
