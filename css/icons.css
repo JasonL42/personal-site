@@ -1,10 +1,17 @@
+.social-links {
+    align-self: center;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
 .icons {
-    display: inline-flex;
+    display: flex;
     border-radius: 50%;
     outline:3px solid;
     outline-offset: 5px;
     transition-property: outline-offset, outline-color;
     transition-duration: 0.5s;
+    cursor: pointer;
 }
 
 .icons:hover {

@@ -3,10 +3,12 @@
 @import 'main.css';
 @import 'fonts.css';
 @import 'details.css';
+@import 'anime.css';
 
 * {
     color:thistle;
     font-family: 'Quicksand';
+    cursor:default;
 }
 
 .Intro{
