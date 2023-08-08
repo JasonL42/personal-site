@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
-        <title>Anime of the 21st Century</title>
+        <title>21st Century Anime Picks</title>
 
         <meta charset="utf-8">
         <meta name="author" content="Jason Li">
@@ -24,7 +24,8 @@
     </header>
     
     <main>
-        Nothing here for now, come back later!
+        Hover over the images for my reactions or click on them to go to the respective Anilist entries!
+        <div class="cards-container"></div>
 
         <div class="social-links" class="icons">
             <a href="https://www.linkedin.com/in/jason-liyikai" target="_blank">
@@ -57,5 +58,52 @@
         <div class="description">
             <p>Find me on LinkedIn, GitHub, Discord, Anilist, Last.fm, or Bilibili!</p>
         </div>
+
+        <script>
+            async function fetchJSONData(url) {
+                try {
+                    const response = await fetch(url);
+                    const jsonData = await response.json();
+                    return jsonData;
+                } catch (error) {
+                    console.error('Error fetching JSON data:', error);
+                    return [];
+                }
+            }
+            
+            function generateCard(data) {
+                const card = document.createElement("div");
+                card.classList.add("card");
+    
+                const yearElement = document.createElement("div");
+                yearElement.classList.add("year");
+                yearElement.textContent = data.year;
+                card.appendChild(yearElement);
+    
+                for (let i = 1; i <= 3; i++) {
+                    if (data[`anime${i}`]) {
+                        const imgElement = document.createElement("img");
+                        imgElement.src = data[`image${i}`];
+                        imgElement.alt = data[`anime${i}`];
+                        imgElement.title = data[`comment${i}`];
+                        card.appendChild(imgElement);
+                    }
+                }
+                const summaryElement = document.createElement("div");
+                summaryElement.textContent = data.summary;
+                card.appendChild(summaryElement);
+                return card;
+            }
+    
+            async function populateCards() {
+                const cardsContainer = document.querySelector(".cards-container");
+                const jsonData = await fetchJSONData('files/anime.json');
+                jsonData.forEach((data) => {
+                    const card = generateCard(data);
+                    cardsContainer.appendChild(card);
+                });
+            }
+            populateCards();
+        </script>
     </main>
 </html>

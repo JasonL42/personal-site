@@ -1,0 +1,29 @@
+
+[
+    {
+        "year": "2001",
+        "anime1": "",
+        "image1": "",
+        "comment1": "",
+        "anime2": "",
+        "image2": "",
+        "comment2": "",
+        "anime3": "",
+        "image3": "",
+        "comment3": "",
+        "summary": "To be updated"
+    },
+    {
+        "year": "2000",
+        "anime1": "FLCL",
+        "image1": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx227-kxQ3PDHrrqp5.jpg",
+        "comment1": "It's bizzare but it works! Great animation and awesome experience.",
+        "anime2": "Boogiepop Phantom",
+        "image2": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx369-Wb0q6vVlgPjz.png",
+        "comment2": "The eerie vibes I get while watching were real good, worth checking out if you like psych horror!",
+        "anime3": "Jin-Roh",
+        "image3": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx570-G4doMyq7NtNi.jpg",
+        "comment3": "A wonderfully crafted tragedy, the ending segment sent chills down my spine, the pace is rather slow and it's rather violent though, be warned.",
+        "summary": "Can't say I watched that many entries from this year, this was before I was born!"
+    }
+]
