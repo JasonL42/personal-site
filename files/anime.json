@@ -1,15 +1,86 @@
 [
     {
+        "year": 2007,
+        "animeList": [],
+        "summary": "Look out for updates!"
+    },
+    {
+        "year": 2006,
+        "animeList": [
+            {
+                "title": "Gintama",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx918-hRbQHIkRUebX.jpg",
+                "comment": "GOAT.",
+                "url": "https://anilist.co/anime/918"
+            },
+            {
+                "title": "Ouran High School Host Club",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx853-OGmpjzPaRfz5.jpg",
+                "comment": "Very gay (complimentary), very charming, and very enjoyable.",
+                "url": "https://anilist.co/anime/853"
+            }
+        ],
+        "summary": "Oh by the way I love Gintama. In case you didn't know, Gintama is my favorite Anime of all time. Did I ever mention Gintama is my top 1 rated Anime?"
+    },
+    {
+        "year": 2005,
+        "animeList": [
+            {
+                "title": "Mushishi",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx457-Si9avlyStAXj.png",
+                "comment": "Mushishi sets its atmosphere up perfectly, it feels like that one distant dream that gives you the warm and fuzzy feels all over.",
+                "url": "https://anilist.co/anime/457"
+            }
+        ],
+        "summary": "Not exaggerating here but I think the most tranquil state of mind that I've been in the past couple of years was most likely whenever I was listening to Mushishi's wonderful OPs, EDs, and OST."
+    },
+    {
+        "year": 2004,
+        "animeList": [
+            {
+                "title": "Howl's Moving Castle",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx431-dDgk19xDZjVX.jpg",
+                "comment": "Yet another beautiful and charming Ghibli tale, also one of my personal favorites. There's a moment in the movie that is guaranteed to make me tear up!",
+                "url": "https://anilist.co/anime/431"
+            },
+            {
+                "title": "Monster",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-ham53gnijfiN.jpg",
+                "comment": "One of the first series that I watched, hooked me since episode 1 and despite its length, did not feel like a chore to binge.",
+                "url": "https://anilist.co/anime/19"
+            },
+            {
+                "title": "Paranoia Agent",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx323-CxrgvoTwF7oe.png",
+                "comment": "Satoshi Kon take an L challenge (IMPOSSIBLE).",
+                "url": "https://anilist.co/anime/323"
+            },
+            {
+                "title": "Samurai Champloo",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205-xxonQKyJtVcw.png",
+                "comment": "It passes the vibe check with extra credit, go listen to the ED right now.",
+                "url": "https://anilist.co/anime/205"
+            }
+        ],
+        "summary": "I heckin' love Howl."
+    },
+    {
         "year": 2003,
         "animeList": [
             {
-                "title": "",
-                "image": "",
-                "comment": "",
-                "url": ""
+                "title": "Planetes",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx329-QXXJHPdNIoJR.png",
+                "comment": "A unique and fascinating story, solid Sci-Fi Anime.",
+                "url": "https://anilist.co/anime/329"
+            },
+            {
+                "title": "Kino's Journey",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx486-ygOzgiYJJsB9.jpg",
+                "comment": "Quite a charming tale, a journey with no destination, thoroughly enjoyable start to finish.",
+                "url": "https://anilist.co/anime/486"
             }
         ],
-        "summary": "Look out for updates!"
+        "summary": "The year I was born! Quote of the year: 「世界は美しくなんかない。そしてそれ故に、美しい」, or \"The world is not beautiful. And that, in a way, lends it a sort of beauty\", from Kino's Journey."
     },
     {
         "year": "2002",
@@ -17,23 +88,23 @@
             {
                 "title": "Azumanga Daioh",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx66-1LTNhVTnttZv.png",
-                "comment": "An awesome Slice of Life anime, and really damn funny. Also has one of my favorite characters: Osaka (she's just like me fr) o.o",
+                "comment": "An awesome Slice of Life Anime, and really damn funny. Also has one of my favorite characters: Osaka (she's just like me fr) o.o",
                 "url": "https://anilist.co/anime/66"
             },
             {
                 "title": "Ghost in the Shell: Stand Alone Complex",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx467-mBTtIoR13qs2.jpg",
-                "comment": "GitS is a classic, and SAC did not miss at all in terms of story nor character. A pleasant cyberpunk treat!",
+                "comment": "GitS is a classic, and SAC did not miss at all in terms of story nor character. A pleasant cyberpunk treat! I also highly recommend the original movie.",
                 "url": "https://anilist.co/anime/467"
             },
             {
                 "title": "Detective Conan: Phantom of Baker Street",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1365-FLEpMCC8Ghhk.jpg",
-                "comment": "Even though I have my qualms with Detective Conan, I cannot get myself to hate its early content, especially this movie. It took the settings and went full creative mode, definitely a childhood favorite!",
+                "comment": "Even though I have my qualms with Detective Conan, I cannot get myself to hate its early content, especially this movie. It took the premise and went full creative mode, definitely a childhood favorite! The case itself was not the strongest however which is a shame.",
                 "url": "https://anilist.co/anime/1365"
             }
         ],
-        "summary": "Don't watch Detective Conan pls, t'll be a journey you end up regretting."
+        "summary": "Don't watch Detective Conan outside of this movie and the early episodes pls, it'll be a journey you end up regretting."
     },
     {
         "year": "2001",

@@ -99,7 +99,7 @@
 
                 const summaryElement = document.createElement("div");
                 summaryElement.classList.add("summary");
-                summaryElement.textContent = data.summary;
+                summaryElement.textContent = "\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0" + data.summary;
                 card.appendChild(summaryElement);
                 return card;
             }

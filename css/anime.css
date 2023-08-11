@@ -17,13 +17,13 @@
 }
 
 .image{
-    max-height: 300px;
-    width: auto;
-    height: auto;
+    height: 300px;
+    width: 200px;
     cursor: pointer;
 }
 
 .year {
+    color:blueviolet;
     text-align: center;
     font-size: 40px;
     font-weight: bold;
@@ -31,8 +31,14 @@
 
 .summary{
     display: flex;
-    justify-content: center;
     margin-left: 20px;
     margin-right: 20px;
     font-size: 24px;
+}
+
+@media screen and (max-width: 900px) {
+    .image{
+        height: 210px;
+        width: 140px;
+    }
 }
