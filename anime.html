@@ -79,17 +79,25 @@
                 yearElement.classList.add("year");
                 yearElement.textContent = data.year;
                 card.appendChild(yearElement);
+
+                const imageContainer = document.createElement("div");
+                imageContainer.classList.add("image-container");
+                card.appendChild(imageContainer);
     
-                for (let i = 1; i <= 3; i++) {
-                    if (data[`anime${i}`]) {
-                        const imgElement = document.createElement("img");
-                        imgElement.src = data[`image${i}`];
-                        imgElement.alt = data[`anime${i}`];
-                        imgElement.title = data[`comment${i}`];
-                        card.appendChild(imgElement);
-                    }
-                }
+                data.animeList.forEach(anime => {
+                    const linkElement = document.createElement("a");
+                    linkElement.href = anime.url;
+                    const imgElement = document.createElement("img");
+                    imgElement.classList.add("image")
+                    imgElement.src = anime.image;
+                    imgElement.alt = anime.title;
+                    imgElement.title = anime.comment;
+                    linkElement.appendChild(imgElement);
+                    imageContainer.appendChild(linkElement);
+                });
+
                 const summaryElement = document.createElement("div");
+                summaryElement.classList.add("summary");
                 summaryElement.textContent = data.summary;
                 card.appendChild(summaryElement);
                 return card;
