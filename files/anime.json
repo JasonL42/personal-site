@@ -1,8 +1,34 @@
 [
     {
-        "year": 2007,
-        "animeList": [],
+        "year": 2008,
+        "animeList": [
+
+        ],
         "summary": "Look out for updates!"
+    },
+    {
+        "year": 2007,
+        "animeList": [
+            {
+                "title": "Baccano!",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2251-kSIwMbTZQDrQ.jpg",
+                "comment": "",
+                "url": "https://anilist.co/anime/2251"
+            },
+            {
+                "title": "Gurren Lagann",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2001-7cvz7Jf8viMT.png",
+                "comment": "",
+                "url": "https://anilist.co/anime/2001"
+            },
+            {
+                "title": "Mononoke",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2246-WHkSkgyuxfgD.jpg",
+                "comment": "",
+                "url": "https://anilist.co/anime/2246"
+            }
+        ],
+        "summary": ""
     },
     {
         "year": 2006,
