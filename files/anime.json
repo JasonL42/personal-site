@@ -1,10 +1,33 @@
 [
     {
-        "year": 2008,
+        "year": 2009,
         "animeList": [
-
+            {
+                "title": "",
+                "image": "",
+                "comment": "",
+                "url": ""
+            }
         ],
         "summary": "Look out for updates!"
+    },
+    {
+        "year": 2008,
+        "animeList": [
+            {
+                "title": "Clannad: After Story",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4181-V1LCtX1rJgbR.png",
+                "comment": "Even though I didn't like the first season that much, After Story was certainly a fantastic experience, and one of the not too many times I ugly cried to any media.",
+                "url": "https://anilist.co/anime/4181"
+            },
+            {
+                "title": "Natsume's Book of Friends",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4081-33BLrdaPdZjP.jpg",
+                "comment": "Highly consistently enjoyable series, and given the premise doesn't feel stagnant at all!",
+                "url": "https://anilist.co/anime/4081"
+            }
+        ],
+        "summary": "Y'know what they say, an episode of Natsume a day keeps depression away."
     },
     {
         "year": 2007,
@@ -12,23 +35,29 @@
             {
                 "title": "Baccano!",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2251-kSIwMbTZQDrQ.jpg",
-                "comment": "",
+                "comment": "A wild and fun ride, definitely worth the time.",
                 "url": "https://anilist.co/anime/2251"
             },
             {
                 "title": "Gurren Lagann",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2001-7cvz7Jf8viMT.png",
-                "comment": "",
+                "comment": "Over the top, exciting, and has all the hype!",
                 "url": "https://anilist.co/anime/2001"
+            },
+            {
+                "title": "Lucky Star",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1887-4x8PSzcBKXGe.png",
+                "comment": "Incredibly fun and was a vibe start to finish.",
+                "url": "https://anilist.co/anime/1887"
             },
             {
                 "title": "Mononoke",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2246-WHkSkgyuxfgD.jpg",
-                "comment": "",
+                "comment": "Insanely unique and interesting.",
                 "url": "https://anilist.co/anime/2246"
             }
         ],
-        "summary": ""
+        "summary": "『ドリルは男のロマンって言うしゃん』- 此方泉 | \"They say a drill is a man's romance\" - Konata Izumi"
     },
     {
         "year": 2006,
@@ -36,7 +65,7 @@
             {
                 "title": "Gintama",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx918-hRbQHIkRUebX.jpg",
-                "comment": "GOAT.",
+                "comment": "GOAT, not elaborating here but if you want to hear my thoughts dm me on Discord!",
                 "url": "https://anilist.co/anime/918"
             },
             {
@@ -94,19 +123,19 @@
         "year": 2003,
         "animeList": [
             {
-                "title": "Planetes",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx329-QXXJHPdNIoJR.png",
-                "comment": "A unique and fascinating story, solid Sci-Fi Anime.",
-                "url": "https://anilist.co/anime/329"
-            },
-            {
                 "title": "Kino's Journey",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx486-ygOzgiYJJsB9.jpg",
                 "comment": "Quite a charming tale, a journey with no destination, thoroughly enjoyable start to finish.",
                 "url": "https://anilist.co/anime/486"
+            },
+            {
+                "title": "Planetes",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx329-QXXJHPdNIoJR.png",
+                "comment": "A unique and fascinating story, solid Sci-Fi Anime.",
+                "url": "https://anilist.co/anime/329"
             }
         ],
-        "summary": "The year I was born! Quote of the year: 「世界は美しくなんかない。そしてそれ故に、美しい」, or \"The world is not beautiful. And that, in a way, lends it a sort of beauty\", from Kino's Journey."
+        "summary": "The year I was born! Quote of the year: 『世界は美しくなんかない。そしてそれ故に、美しい』, or \"The world is not beautiful. And that, in a way, lends it a sort of beauty\", from Kino's Journey."
     },
     {
         "year": "2002",
@@ -118,16 +147,16 @@
                 "url": "https://anilist.co/anime/66"
             },
             {
-                "title": "Ghost in the Shell: Stand Alone Complex",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx467-mBTtIoR13qs2.jpg",
-                "comment": "GitS is a classic, and SAC did not miss at all in terms of story nor character. A pleasant cyberpunk treat! I also highly recommend the original movie.",
-                "url": "https://anilist.co/anime/467"
-            },
-            {
                 "title": "Detective Conan: Phantom of Baker Street",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1365-FLEpMCC8Ghhk.jpg",
                 "comment": "Even though I have my qualms with Detective Conan, I cannot get myself to hate its early content, especially this movie. It took the premise and went full creative mode, definitely a childhood favorite! The case itself was not the strongest however which is a shame.",
                 "url": "https://anilist.co/anime/1365"
+            },
+            {
+                "title": "Ghost in the Shell: Stand Alone Complex",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx467-mBTtIoR13qs2.jpg",
+                "comment": "GitS is a classic, and SAC did not miss at all in terms of story nor character. A pleasant cyberpunk treat! I also highly recommend the original movie.",
+                "url": "https://anilist.co/anime/467"
             }
         ],
         "summary": "Don't watch Detective Conan outside of this movie and the early episodes pls, it'll be a journey you end up regretting."
