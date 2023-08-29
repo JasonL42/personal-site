@@ -1,15 +1,69 @@
 [
     {
-        "year": 2009,
+        "year": 2011,
         "animeList": [
             {
                 "title": "",
                 "image": "",
                 "comment": "",
-                "url": ""
+                "url": "https://anilist.co/anime/"
             }
         ],
         "summary": "Look out for updates!"
+    },
+    {
+        "year": 2010,
+        "animeList": [
+            {
+                "title": "And Yet the Town Moves",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8726-PX1AiBJxOzyo.png",
+                "comment": "SHAFT's mundane tale of a maid yet mixed with raw absurdity, very fun!",
+                "url": "https://anilist.co/anime/8726"
+            },
+            {
+                "title": "Bakuman.",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7674-DtZsn5IlERGO.png",
+                "comment": "Very detailed and entertaining look into the manga industry.",
+                "url": "https://anilist.co/anime/7674"
+            },
+            {
+                "title": "Durarara!!",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6746-Q4EmstN2fy0R.png",
+                "comment": "Insanely fun, brilliant cast of characters that all shine under the spotlight.",
+                "url": "https://anilist.co/anime/6746"
+            },
+            {
+                "title": "The Tatami Galaxy",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7785-TMqYIFkWDCgy.jpg",
+                "comment": "The anime that changed my life for the better, it's truly a once-in-a-lifetime experience.",
+                "url": "https://anilist.co/anime/7785"
+            }
+        ],
+        "summary": "Watching Bakuman is probably the fastest I've ever binged anime, iirc I finished all 3 Seasons (75 Episodes) within 3 days o.0!"
+    },
+    {
+        "year": 2009,
+        "animeList": [
+            {
+                "title": "Fullmetal Alchemist: Brotherhood",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-KJTQz9AIm6Wk.jpg",
+                "comment": "Consistently good, truly deserves its throne among a big part of the anime community.",
+                "url": "https://anilist.co/anime/5114"
+            },
+            {
+                "title": "K-On!",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5680-Xh6B67KuZ2PU.png",
+                "comment": "Yui my beloved, KyoAni my beloved, CGDCT my beloved~",
+                "url": "https://anilist.co/anime/5680"
+            },
+            {
+                "title": "Redline",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6675-fFFoRB7FqNau.png",
+                "comment": "The adrenaline pumper movie, exquisite animation from start to finish.",
+                "url": "https://anilist.co/anime/6675"
+            }
+        ],
+        "summary": "Yui is one of my many spirit animals."
     },
     {
         "year": 2008,
