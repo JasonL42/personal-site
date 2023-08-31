@@ -1,6 +1,6 @@
 [
     {
-        "year": 2011,
+        "year": 2016,
         "animeList": [
             {
                 "title": "",
@@ -10,6 +10,120 @@
             }
         ],
         "summary": "Look out for updates!"
+    },
+    {
+        "year": 2015,
+        "animeList": [
+            {
+                "title": "Assassination Classroom",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20755-q0b3Ok1cAbPd.jpg",
+                "comment": "My mom will never understand why I broke out sobbing that one night at 3 am.",
+                "url": "https://anilist.co/anime/20755"
+            },
+            {
+                "title": "Mobile Suit Gundam: The Origin",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10937-yNrI4MUsigat.png",
+                "comment": "While the Gundam Franchise is massive and hard to take a bite out of, the Origin is a neat entry that introduces some characters from the classic.",
+                "url": "https://anilist.co/anime/10937"
+            },
+            {
+                "title": "One Punch Man",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21087-UV2tu6exrfXz.jpg",
+                "comment": "While the sequel to it is a dissapointment, the first Season of OPM is masterclass and simply gorgeous animation.",
+                "url": "https://anilist.co/anime/21087"
+            }
+        ],
+        "summary": "My AOTY was actually Gintama° (big surprise I know @.@)."
+    },
+    {
+        "year": 2014,
+        "animeList": [
+            {
+                "title": "HAIKYU!!",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20464-eW7ZDBOcn74a.png",
+                "comment": "Awesome energy, I hate sports but loved this!",
+                "url": "https://anilist.co/anime/20464"
+            },
+            {
+                "title": "Ping Pong the Animation",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20607-naYLIcMOea11.jpg",
+                "comment": "Another great sports Anime, unique style and great direction by Masaaki Yuasa as always.",
+                "url": "https://anilist.co/anime/20607"
+            },
+            {
+                "title": "SHIROBAKO",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20812-UzCdH72OFcvz.jpg",
+                "comment": "Very detailed and entertaining look into the Anime industry. (I did not copy-paste this from Bakuman.)",
+                "url": "https://anilist.co/anime/20812"
+            }
+        ],
+        "summary": "So now that I've seen Bakuman and SHIROBAKO, I basically know everything about the Anime and Manga industry right..? LOL no."
+    },
+    {
+        "year": 2013,
+        "animeList": [
+            {
+                "title": "Attack on Titan",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-C6FPmWm59CyP.jpg",
+                "comment": "It's just that popular, might as well give it a try yeah?",
+                "url": "https://anilist.co/anime/16498"
+            },
+            {
+                "title": "Kill la Kill",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx18679-zE07Y4SFaOiO.png",
+                "comment": "TRIGGER doing TRIGGER things for TRIGGER enjoyers who love it when TRIGGER says \"It's TRIGGERin' time\" and TRIGGERs all over the place.",
+                "url": "https://anilist.co/anime/18679"
+            },
+            {
+                "title": "The Wind Rises",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16662-6rqh55mNFY3n.jpg",
+                "comment": "It do be Ghbili it do be a banger it do be your average Ghibli banger.",
+                "url": "https://anilist.co/anime/16662"
+            }
+        ],
+        "summary": "To be perfectly honest, I don't like AoT that much.."
+    },
+    {
+        "year": 2012,
+        "animeList": [
+            {
+                "title": "From the New World",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png",
+                "comment": "Cool world-building with some intriguing ideologies and philosophies paired with a great soundtrack. Good length for its story as well!",
+                "url": "https://anilist.co/anime/13125"
+            },
+            {
+                "title": "Hyouka",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12189-eBb6fcM21Zh7.jpg",
+                "comment": "",
+                "url": "https://anilist.co/anime/12189"
+            }
+        ],
+        "summary": "Shinsekai Yori more like Shinsekai Yuri I mean what?"
+    },
+    {
+        "year": 2011,
+        "animeList": [
+            {
+                "title": "Anohana: The Flower We Saw That Day",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9989-hImMg6kCMm6I.jpg",
+                "comment": "A heartwarming tale of friendship and love.",
+                "url": "https://anilist.co/anime/9989"
+            },
+            {
+                "title": "Nichijou",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10165-1j2Qn8wIIn5S.png",
+                "comment": "One of the first Anime that I watched, hilarious and highly entertaining.",
+                "url": "https://anilist.co/anime/10165"
+            },
+            {
+                "title": "Steins;Gate",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-7pdcVzQSkKxT.jpg",
+                "comment": "Banger OP, complete and awesome story, the best vieweing experience and great Sci-Fi, what more can one ask for?",
+                "url": "https://anilist.co/anime/9253"
+            }
+        ],
+        "summary": "Quote of the year: 『日々私たちが過ごしている日常は、実は、奇跡の連続なのかもしれない』or \"The ordinary days that we live in may, in fact, be a series of miracles.\""
     },
     {
         "year": 2010,
@@ -23,7 +137,7 @@
             {
                 "title": "Bakuman.",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx7674-DtZsn5IlERGO.png",
-                "comment": "Very detailed and entertaining look into the manga industry.",
+                "comment": "Very detailed and entertaining look into the Manga industry.",
                 "url": "https://anilist.co/anime/7674"
             },
             {
@@ -35,11 +149,11 @@
             {
                 "title": "The Tatami Galaxy",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx7785-TMqYIFkWDCgy.jpg",
-                "comment": "The anime that changed my life for the better, it's truly a once-in-a-lifetime experience.",
+                "comment": "The Anime that changed my life for the better, it's truly a once-in-a-lifetime experience.",
                 "url": "https://anilist.co/anime/7785"
             }
         ],
-        "summary": "Watching Bakuman is probably the fastest I've ever binged anime, iirc I finished all 3 Seasons (75 Episodes) within 3 days o.0!"
+        "summary": "Watching Bakuman is probably the fastest I've ever binged Anime, iirc I finished all 3 Seasons (75 Episodes) within 3 days o.0!"
     },
     {
         "year": 2009,
@@ -47,7 +161,7 @@
             {
                 "title": "Fullmetal Alchemist: Brotherhood",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-KJTQz9AIm6Wk.jpg",
-                "comment": "Consistently good, truly deserves its throne among a big part of the anime community.",
+                "comment": "Consistently good, truly deserves its throne among a big part of the Anime community.",
                 "url": "https://anilist.co/anime/5114"
             },
             {
@@ -107,7 +221,7 @@
             {
                 "title": "Mononoke",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2246-WHkSkgyuxfgD.jpg",
-                "comment": "Insanely unique and interesting.",
+                "comment": "Insanely unique and interesting, great animation style.",
                 "url": "https://anilist.co/anime/2246"
             }
         ],
