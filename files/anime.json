@@ -1,6 +1,6 @@
 [
     {
-        "year": 2016,
+        "year": 2022,
         "animeList": [
             {
                 "title": "",
@@ -10,6 +10,126 @@
             }
         ],
         "summary": "Look out for updates!"
+    },
+    {
+        "year": 2021,
+        "animeList": [
+            {
+                "title": "",
+                "image": "",
+                "comment": "",
+                "url": "https://anilist.co/anime/"
+            }
+        ],
+        "summary": "Look out for updates!"
+    },
+    {
+        "year": 2020,
+        "animeList": [
+            {
+                "title": "",
+                "image": "",
+                "comment": "",
+                "url": "https://anilist.co/anime/"
+            }
+        ],
+        "summary": "Look out for updates!"
+    },
+    {
+        "year": 2019,
+        "animeList": [
+            {
+                "title": "",
+                "image": "",
+                "comment": "",
+                "url": "https://anilist.co/anime/"
+            }
+        ],
+        "summary": "Look out for updates!"
+    },
+    {
+        "year": 2018,
+        "animeList": [
+            {
+                "title": "",
+                "image": "",
+                "comment": "",
+                "url": "https://anilist.co/anime/"
+            },
+            {
+                "title": "",
+                "image": "",
+                "comment": "",
+                "url": "https://anilist.co/anime/"
+            },
+            {
+                "title": "",
+                "image": "",
+                "comment": "",
+                "url": "https://anilist.co/anime/"
+            },
+            {
+                "title": "",
+                "image": "",
+                "comment": "",
+                "url": "https://anilist.co/anime/"
+            }
+        ],
+        "summary": "Look out for updates!"
+    },
+    {
+        "year": 2017,
+        "animeList": [
+            {
+                "title": "Girls' Last Tour",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99420-ROmwm2suzoNJ.png",
+                "comment": "Something about this one is just inexplicably captivating.",
+                "url": "https://anilist.co/anime/99420"
+            },
+            {
+                "title": "Land of the Lustrous",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98707-iGdx1gFXQs01.png",
+                "comment": "Impressive 3DCG Animation start to finish, Studio Orange always knocks it out of the park!",
+                "url": "https://anilist.co/anime/98707"
+            },
+            {
+                "title": "Made in Abyss",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-8oxwTF84hzue.jpg",
+                "comment": "\"Never judge a book by its cover\" the Anime :skull:",
+                "url": "https://anilist.co/anime/97986"
+            }
+        ],
+        "summary": "It was not my intention to have 3 (kind of) depressing works all together it really didn't occur to me but I do love all 3 >,<"
+    },
+    {
+        "year": 2016,
+        "animeList": [
+            {
+                "title": "A Silent Voice",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-UMb6Kl7ZL8Ke.jpg",
+                "comment": "One of my favorite movies, the ending gets me every time!",
+                "url": "https://anilist.co/anime/20954"
+            },
+            {
+                "title": "March Comes in Like a Lion",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21366-qp94AxKx6ZaM.jpg",
+                "comment": "Dripping with human emotion, a complex, soothing, and melancholic story that never fails to immerse me.",
+                "url": "https://anilist.co/anime/21366"
+            },
+            {
+                "title": "Mob Psycho 100",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-BICFCVZY3xQb.jpg",
+                "comment": "ONE-sensei's storytelling talent radiates from its uniquely awesome style, also has Reigen in it so yeah.",
+                "url": "https://anilist.co/anime/21507"
+            },
+            {
+                "title": "Mobile Suit Gundam Thunderbolt: December Sky",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21893-iuu8D51Go2oI.png",
+                "comment": "Honestly speaking, I never ever expected Gundam and Jazz to mix together so well!",
+                "url": "https://anilist.co/anime/21893"
+            }
+        ],
+        "summary": "Great soundtracks all around this year!"
     },
     {
         "year": 2015,
