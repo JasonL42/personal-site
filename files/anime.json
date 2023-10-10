@@ -15,48 +15,43 @@
         "animeList": [
             {
                 "title": "",
-                "image": "",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-5Y8rYzg982sq.png",
                 "comment": "",
-                "url": "https://anilist.co/anime/"
+                "url": "https://anilist.co/anime/130003"
             }, {
                 "title": "",
-                "image": "",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127230-FlochcFsyoF4.png",
                 "comment": "",
-                "url": "https://anilist.co/anime/"
+                "url": "https://anilist.co/anime/127230"
             }, {
                 "title": "",
-                "image": "",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139589-oFz7JwpwRkQV.png",
                 "comment": "",
-                "url": "https://anilist.co/anime/"
+                "url": "https://anilist.co/anime/139589"
             }, {
                 "title": "",
-                "image": "",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-sG9FZa5JxlmE.jpg",
                 "comment": "",
-                "url": "https://anilist.co/anime/"
+                "url": "https://anilist.co/anime/142770"
             }
         ],
-        "summary": "Look out for updates!"
+        "summary": ""
     }, {
         "year": 2021,
         "animeList": [
             {
-                "title": "",
-                "image": "",
-                "comment": "",
-                "url": "https://anilist.co/anime/"
+                "title": "Gintama: The Final",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114129-RLgSuh6YbeYx.jpg",
+                "comment": "No sequels but like it's Gintama so I make exception, best ending to best series.",
+                "url": "https://anilist.co/anime/114129"
             }, {
-                "title": "",
-                "image": "",
-                "comment": "",
-                "url": "https://anilist.co/anime/"
-            }, {
-                "title": "",
-                "image": "",
-                "comment": "",
-                "url": "https://anilist.co/anime/"
+                "title": "ODDTAXI",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128547-TWRVIu5zRTYx.jpg",
+                "comment": "The definitive dark horse of the year, great plot that all tied together at the end, entertaining!",
+                "url": "https://anilist.co/anime/128547"
             }
         ],
-        "summary": "Look out for updates!"
+        "summary": "Year I graduated High School!"
     }, {
         "year": 2020,
         "animeList": [
@@ -73,7 +68,7 @@
         "animeList": [
             {
                 "title": "Dr. Stone",
-                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/meidum/bx105333-BBxkPhen07Zj.jpg",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105333-BBxkPhen07Zj.jpg",
                 "comment": "Great Anime for science nerds, made me appreciate what we have more times than I can count.",
                 "url": "https://anilist.co/anime/105333"
             }, {
