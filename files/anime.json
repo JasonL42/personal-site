@@ -362,6 +362,11 @@
         "year": 2005,
         "animeList": [
             {
+                "title": "Aria the Animation",
+                "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx477-IhmzyyzROh27.png",
+                "comment": "Comfiness the animation!",
+                "url": "https://anilist.co/anime/477/"
+            }, {
                 "title": "Mushishi",
                 "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx457-Si9avlyStAXj.png",
                 "comment": "Mushishi sets its atmosphere up perfectly, it feels like that one distant dream that gives you the warm and fuzzy feels all over.",
